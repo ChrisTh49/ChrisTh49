@@ -42,10 +42,8 @@ println(kotlin)
 const db = ["MySql, MongoDB, Firebase]
 ```
 
-<p align="center">
-  <a href="https://github.com/ChrisTh49"><img width="400" src="https://github-readme-stats.vercel.app/api?username=ChrisTh49&show_icons=true&theme=dracula">
-  <a href="https://github.com/ChrisTh49"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisTh49&hide=html,scss,css&langs_count=10&layout=compact&theme=dracula">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisTh49&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisTh49&show_icons=true&theme=tokyonight)
       
 <a href="mailto:christh9799@gmail.com">![mailto:christh9799@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/christh49/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
