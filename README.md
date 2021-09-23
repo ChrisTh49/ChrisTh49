@@ -1,4 +1,4 @@
-### <h1> println("Hello!, I'm ChrisTh💻") <img src="https://user-images.githubusercontent.com/76270276/134558616-3d21718a-d21c-4075-b8a4-b60f08b01d7c.gif" width=120></h1>
+### <h1> println("Hello!, I'm ChrisTh💻") <img src="https://user-images.githubusercontent.com/76270276/134558616-3d21718a-d21c-4075-b8a4-b60f08b01d7c.gif" width=80></h1>
 Hello!, my name is Christopher, a Web developer with JavaScript and Mobile developer with JavaScript and Kotlin, let me tell you more about me and my work, Welcome to my Readme!😊
 
 ### <h2>More about me...</h2>
